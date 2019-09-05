@@ -1,4 +1,4 @@
-dcConsData = [
+{"dccons" :[
 	{name:"ㄷㄷㄷ.gif",	"path" : "https://hugh-park.github.io/dccon/도도도/ㄷㄷㄷ.gif"	, keywords:["ㄷㄷㄷ"],	tags:["도도도"]},
 	{name:"도스기.png",	"path" : "https://hugh-park.github.io/dccon/도도도/도스기.png"	, 		keywords:["도스기"],	tags:["도도도"]},
 	{name:"널태오.png",	"path" : "https://hugh-park.github.io/dccon/도도도/널태오.png"	, 		keywords:["널태오"],	tags:["도도도"]},
@@ -42,4 +42,4 @@ dcConsData = [
 	{name:"태클쉬움.png",	"path" : "https://hugh-park.github.io/dccon/허세콘/태클쉬움.png"	, 		keywords:["태클쉬움"],	tags:["허세콘"]},
 	{name:"포효쉬움.png",	"path" : "https://hugh-park.github.io/dccon/허세콘/포효쉬움.png"	, 		keywords:["포효쉬움"],	tags:["허세콘"]},
 	{name:"프희못해.png",	"path" : "https://hugh-park.github.io/dccon/허세콘/프희못해.png"	, 		keywords:["프희못해"],	tags:["허세콘"]}
-];
+]};
