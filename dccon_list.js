@@ -42,4 +42,4 @@
 	{"name":"태클쉬움.png",	"path" : "https://hugh-park.github.io/dccon/허세콘/태클쉬움.png"	, 		"keywords":["태클쉬움"],	"tags":["허세콘"]},
 	{"name":"포효쉬움.png",	"path" : "https://hugh-park.github.io/dccon/허세콘/포효쉬움.png"	, 		"keywords":["포효쉬움"],	"tags":["허세콘"]},
 	{"name":"프희못해.png",	"path" : "https://hugh-park.github.io/dccon/허세콘/프희못해.png"	, 		"keywords":["프희못해"],	"tags":["허세콘"]}
-]};
+]}
