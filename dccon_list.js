@@ -20,7 +20,7 @@
 	{"name":"빛지모토.png",	"path" : "https://hugh-park.github.io/dccon/츠지모토/빛지모토.png"	, 		"keywords":["빛지모토"],	"tags":["츠지모토"]},
 	{"name":"사기모토.gif",	"path" : "https://hugh-park.github.io/dccon/츠지모토/사기모토.gif"	, 		"keywords":["사기모토"],	"tags":["츠지모토"]},
 	{"name":"설산모토.png",	"path" : "https://hugh-park.github.io/dccon/츠지모토/설산모토.png"	, 		"keywords":["설산모토"],	"tags":["츠지모토"]},	
-	{"name":"아이보.gif",		"path" : "https://hugh-park.github.io/dccon/츠지모토/아이보.gif"	, 		"keywords":["아이보"],	"tags":["츠지모토"]},
+	{"name":"아이보.gif",	 "path" : "https://hugh-park.github.io/dccon/츠지모토/아이보.gif"	, 		"keywords":["아이보"],	"tags":["츠지모토"]},
 	{"name":"역왕츠지.png",	"path" : "https://hugh-park.github.io/dccon/츠지모토/역왕츠지.png"	, 		"keywords":["역왕츠지"],	"tags":["츠지모토"]},
 	{"name":"영정모토.png",	"path" : "https://hugh-park.github.io/dccon/츠지모토/영정모토.png"	, 		"keywords":["영정모토"],	"tags":["츠지모토"]},
 	{"name":"의도된것.gif",	"path" : "https://hugh-park.github.io/dccon/츠지모토/의도된것.gif"	, 		"keywords":["의도된것"],	"tags":["츠지모토"]},
