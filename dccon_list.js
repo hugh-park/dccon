@@ -4,7 +4,7 @@
 	{"name":"널태오.png",	"path" : "https://hugh-park.github.io/dccon/도도도/널태오.png"	, 		"keywords":["널태오"],	"tags":["도도도"]},
 	{"name":"도스쟈.png",	"path" : "https://hugh-park.github.io/dccon/도도도/도스쟈.png"	, 		"keywords":["도스쟈"],	"tags":["도도도"]},
 	{"name":"뚀가.png",	"path" : "https://hugh-park.github.io/dccon/도도도/뚀가.png"	, 		"keywords":["뚀가"],	"tags":["도도도"]},
-	{"name":"발하.png",	"path" : "https://hugh-park.github.io/dccon/도도도/발하.png"	, 		"keywords":["qkfgk"],	"tags":["도도도"]},
+	{"name":"발하.png",	"path" : "https://hugh-park.github.io/dccon/도도도/발하.png"	, 		"keywords":["발하"],	"tags":["도도도"]},
 	{"name":"볼보빳다.png",	"path" : "https://hugh-park.github.io/dccon/도도도/볼보빳다.png"	, 		"keywords":["볼보빳다"],	"tags":["도도도"]},
 	{"name":"안쟈.png",	"path" : "https://hugh-park.github.io/dccon/도도도/안쟈.png"	, 		"keywords":["안쟈"],	"tags":["도도도"]},
 	{"name":"어서오도.png",	"path" : "https://hugh-park.github.io/dccon/도도도/어서오도.png"	, 		"keywords":["어서오도"],	"tags":["도도도"]},
@@ -38,8 +38,8 @@
 	{"name":"라보없음.png",	"path" : "https://hugh-park.github.io/dccon/허세콘/라보없음.png"	, 		"keywords":["라보없음"],	"tags":["허세콘"]},
 	{"name":"잘나옴.png",	"path" : "https://hugh-park.github.io/dccon/허세콘/잘나옴.png"	, 		"keywords":["잘나옴"],	"tags":["허세콘"]},
 	{"name":"잘피쉬.png",	"path" : "https://hugh-park.github.io/dccon/허세콘/잘피쉬.png"	, 		"keywords":["잘피쉬"],	"tags":["허세콘"]},
-	{"name":"차액쉬움.png",	"path" : "https://hugh-park.github.io/dccon/허세콘/차액쉬움.png"	, 		"keywords":[""],	"tags":["허세콘"]},
+	{"name":"차액쉬움.png",	"path" : "https://hugh-park.github.io/dccon/허세콘/차액쉬움.png"	, 		"keywords":["차액쉬움"],	"tags":["허세콘"]},
 	{"name":"태클쉬움.png",	"path" : "https://hugh-park.github.io/dccon/허세콘/태클쉬움.png"	, 		"keywords":["태클쉬움"],	"tags":["허세콘"]},
 	{"name":"포효쉬움.png",	"path" : "https://hugh-park.github.io/dccon/허세콘/포효쉬움.png"	, 		"keywords":["포효쉬움"],	"tags":["허세콘"]},
-	{"name":"프회못해.png",	"path" : "https://hugh-park.github.io/dccon/허세콘/프회못해.png"	, 		"keywords":["프못해"],	"tags":["허세콘"]}
+	{"name":"프회못해.png",	"path" : "https://hugh-park.github.io/dccon/허세콘/프회못해.png"	, 		"keywords":["프회못해"],	"tags":["허세콘"]}
 ]}
